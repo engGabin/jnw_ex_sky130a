@@ -10,11 +10,11 @@ gsbaff
 
 # Why
 
-<explain why you made this module>
+Advanced Integrated Circuit
 
 # How
 
-<explain short how you made this module>
+with some  software in the terminal
 
 
 # What
@@ -48,3 +48,4 @@ gsbaff
 | Technology          |         | Skywater 130 nm |         |       |
 | AVDD                | 1.7    | 1.8           | 1.9    | V     |
 | Temperature         | -40     | 27            | 125     | C     |
+
