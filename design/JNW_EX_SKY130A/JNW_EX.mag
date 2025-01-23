@@ -1,7 +1,7 @@
 magic
 tech sky130A
 timestamp 1737310548
-use JNWATR_NCH_4C5F0  JNWATR_NCH_4C5F0_0 ~/pro/aicex/ip/jnw_ex_sky130a/design/JNW_ATR_SKY130A
+use JNWATR_NCH_4C5F0  JNWATR_NCH_4C5F0_0 ../JNW_ATR_SKY130A
 timestamp 1734044400
 transform 1 0 -49 0 1 -40
 box -92 -64 668 464
